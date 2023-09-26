@@ -1,0 +1,20 @@
+
+#ifndef DEFINE_H
+#define DEFINE_H
+
+//HEAP
+#define HEAP_SIZE 100
+
+//QUEUE
+#define QUEUE_CAPACITY 100
+
+//VECTOR LIST -- SERVER
+#define GAMESERVER_CAPACITY 20
+
+//TIMERS
+#define LOGIN_DELAY 0.1
+#define DEQUEUE_DELAY 1
+#define AFK_MAX 60
+#define AFK_MIN 1
+#define RANDOM_DISCONNECT_TIME 8
+#endif
